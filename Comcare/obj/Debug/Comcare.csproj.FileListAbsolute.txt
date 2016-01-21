@@ -1,0 +1,9 @@
+D:\Documents\Visual Studio 2015\Projects\Comcare\Comcare\bin\Debug\Comcare.exe.config
+D:\Documents\Visual Studio 2015\Projects\Comcare\Comcare\bin\Debug\Comcare.exe
+D:\Documents\Visual Studio 2015\Projects\Comcare\Comcare\bin\Debug\Comcare.pdb
+D:\Documents\Visual Studio 2015\Projects\Comcare\Comcare\obj\Debug\Comcare.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Comcare\Comcare\obj\Debug\Comcare.Form1.resources
+D:\Documents\Visual Studio 2015\Projects\Comcare\Comcare\obj\Debug\Comcare.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\Comcare\Comcare\obj\Debug\Comcare.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\Comcare\Comcare\obj\Debug\Comcare.exe
+D:\Documents\Visual Studio 2015\Projects\Comcare\Comcare\obj\Debug\Comcare.pdb
